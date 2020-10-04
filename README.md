@@ -59,7 +59,7 @@ Go to your project directory from terminal and hit following commands
 * `bundle install`  - Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably
 * `bundle exec cucumber` - Run all features.
 * `bundle exec cucumber features/xxxx.feature`  - to run specific feature.
-* `pending uploading of information` to generate a HTML report.
+* `bundle exec cucumber --publish` to generate a HTML report.
 
 
 
